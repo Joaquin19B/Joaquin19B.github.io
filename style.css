@@ -13,8 +13,9 @@ h1{
     color: red;
 }
 .auto{
-    width: 300px;
+    width: 50%;
     height: auto;
+    border-radius: 5%;
 }
 .nota{
     color: brown;
