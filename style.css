@@ -23,3 +23,28 @@ h1{
 .contenido{
     text-decoration-line: underline;
 }
+h3{
+    color: beige;
+}
+@media screen and (min-width:800px){
+    body{
+        background-color: black;
+        text-align: left;
+    }
+    .contenido{
+        color: lightgreen;
+    }
+    h2{
+        color: lightgreen;
+    }
+    p{
+        color: lightgreen;
+    }
+    .auto{
+     border-color: blueviolet;
+     border-style: double;
+    }
+    h3{
+        color: yellow;
+    }
+}
